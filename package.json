@@ -1,0 +1,23 @@
+{
+  "name": "koa2-websocket",
+  "version": "1.0.0",
+  "description": "koa 2.x websocket mkddlewares",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xs23933/koa2-websocket.git"
+  },
+  "keywords": [
+    "koa2",
+    "webskocket"
+  ],
+  "author": "xs23033",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/xs23933/koa2-websocket/issues"
+  },
+  "homepage": "https://github.com/xs23933/koa2-websocket#readme"
+}
